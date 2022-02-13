@@ -58,6 +58,8 @@ function spamla(){
 
 
 });
-client.login("TOKENİNİZ");
+client.login();
+client.login(OTQyNDA1MDE3NjkwODQ1MjY2.YgkBEQ.D8_YfOTU4VTUN3edXByIopt3lT4);
+
     
     
